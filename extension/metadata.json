@@ -1,0 +1,10 @@
+{
+  "uuid": "francos-monitor@francos.local",
+  "name": "Francos System Monitor",
+  "description": "Monitor compacto na Ubuntu Dock com CPU, GPU, RAM e VRAM reais.",
+  "shell-version": [
+    "50"
+  ],
+  "version": 1,
+  "url": "https://github.com/FrancosCorporation/status_engine_linux"
+}
